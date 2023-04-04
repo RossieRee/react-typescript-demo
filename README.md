@@ -1,3 +1,6 @@
+# Lesson
+Here I followed along and learnt from [codeevolution](https://www.youtube.com/@Codevolution). Here I learnt the extent of how type safety is used to reduce bugs. This is a vast demo project where I would manually type the components in App.tsx to see results of the different possibilities of how typescript and react interact.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
